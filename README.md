@@ -1,3 +1,4 @@
 - [x] useInput
-- [ ] useTabs
-- [ ]
+- [x] useTabs
+- [x] useTitle
+- [x] useClick
