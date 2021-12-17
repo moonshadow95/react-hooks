@@ -2,3 +2,12 @@
 - [x] useTabs
 - [x] useTitle
 - [x] useClick
+- [ ] usePreventLeave
+- [ ] useConfirgm
+- [ ] usPageLeave
+- [ ] useFadeIn
+- [ ] useFullscreen
+- [ ] useNetwork
+- [ ] useNotification
+- [ ] useScroll
+- [ ] useAxios
