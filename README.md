@@ -2,8 +2,8 @@
 - [x] useTabs
 - [x] useTitle
 - [x] useClick
-- [ ] usePreventLeave
-- [ ] useConfirgm
+- [x] useConfirm
+- [x] usePreventLeave
 - [ ] usPageLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
